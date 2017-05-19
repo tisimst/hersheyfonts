@@ -48,9 +48,9 @@ Since the Hershey fonts really only consists of glyph skeletons, in the form of 
 * ExtraExpanded (abbreviated as "ExtraExp")
 * UltraExpanded (abbreviated as "UltraExp")
 
-In addition to the above weights, I tried to match the original plotter sizes as closely as possible with three additional weights to match the plotting machines SC-4010 (which is barely lighter than Black), SC-4020 (which is barely lighter than Bold), and SC-4060 (which is slightly heavier than Light).
+In addition to the above weights, I tried to carefully match the original plotter sizes as closely as possible with three additional weights to match the plotting machines as described in the original Hershey documents: SC-4010 (which is barely lighter than Black), SC-4020 (which is barely lighter than Bold), and SC-4060 (which is slightly heavier than Light). This makes 12 weights total.
 
-All in all, each of the text fonts has been rendered in each weight/width combination, resulting in 11x12x9=1188 font files. Each symbol font has been rendered in each weight, resulting in 6x12=72 font files for a grand total of 1260 font files!
+All in all, using a complex script and FontForge's Python API, each of the text fonts has been rendered in each weight/width combination, resulting in 11x12x9=1188 font files. Each symbol font has been rendered in each weight, resulting in 6x12=72 font files for a grand total of 1260 font files!
 
 Each family is licensed under SIL OFL with their respective names. Any derivatives are required to be licensed under OFL as well. See the full details of the license at http://scripts.sil.org/OFL
 
