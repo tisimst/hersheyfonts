@@ -1,7 +1,7 @@
 # hersheyfonts
 OTF versions of A. H. Hershey's fonts
 
-The Hershey fonts are a great congolmerate of many fonts that I've broken down into separate styles and optical sizes (17 in all):
+The Hershey fonts are a great conglomerate of many fonts that I've broken down into separate styles and optical sizes (17 in all):
 * English Gothic Display
 * German Gothic Display
 * Italic Gothic Display
